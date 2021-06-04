@@ -1,0 +1,8 @@
+body{
+    background-image:url(bg.jpg);
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    height: 500px;
+    width: 600px;
+}
